@@ -1,0 +1,35 @@
+.título{
+    color:rgb(0, 132, 255);
+    /*cor de texto*/
+    text-align: ;
+    /*alinhar o texto*/
+    border-color: blue;
+    /*cor da borda*/
+    border-width:6px;
+    /*grossura da borda*/
+    border-style: ;
+    /*design da borda*/
+    margin-left: 35%;
+    /*margem externa que leva toda a moldura e tudo dentro dela para a direita*/
+    padding-left:10%;
+    /*margem interna que leva toda a escrita dentro da moldura para direita, mantendo a moldura no lugar */
+    background-color: ;
+    /*cor de fundo dentro da moldura*/
+}
+
+.subtítulo{color:rgba(0, 102, 255, 0.575);
+
+}
+
+.colégio{color:green;    
+}
+
+.font1{font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;}
+
+.font2{font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;}
